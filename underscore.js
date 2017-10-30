@@ -237,7 +237,6 @@
         return results;
     };
 
-　　
     //「dir = 1」が適用された関数を返す。
     function createReduce(dir) {
 
